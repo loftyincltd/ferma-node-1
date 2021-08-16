@@ -1,0 +1,30 @@
+{
+  "name": "roadmap-back",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "cookie-parser": "^1.4.5",
+    "crypto-js": "^4.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "edge-js": "^15.5.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "jimp": "^0.16.1",
+    "lodash": "^4.17.20",
+    "mkdirp": "^1.0.4",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.17",
+    "morgan": "^1.10.0",
+    "sticky-session": "^1.1.2",
+    "swagger-jsdoc": "^3.4.0",
+    "swagger-ui-express": "^4.0.7"
+  }
+}
